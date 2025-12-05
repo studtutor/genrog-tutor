@@ -1,2 +1,2 @@
-# genrog-tutor
+# genaiRAG-tutor
 Genai RAG agenticAI tutorial
